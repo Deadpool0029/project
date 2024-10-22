@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 demo2
 changes made new code added
 
+=======
+demo2
+added code testing something
+>>>>>>> 7b552713da7849dc625877802c2039969421295d
